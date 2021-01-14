@@ -14,8 +14,6 @@ public class MainMenu {
 		System.out.println("How old are you?");
 		ages = in.nextLine();
 		System.out.println("You are " + ages +" years old!");
-		//System.out.print("Enter your IC number: ");
-		//IC = in.nextLong();
 		System.out.println("Enter your gender :");
 		fm = in.nextLine();
 		System.out.println();
